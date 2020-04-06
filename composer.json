@@ -1,0 +1,22 @@
+{
+  "name": "pear/mdb2",
+  "description": "Database abstraction layer",
+  "license": "BSD",
+  "type": "library",
+  "keywords": [
+    "pear",
+    "mdb2"
+  ],
+  "homepage": "http://pear.php.net/package/MDB2",
+  "support": {
+    "source": "https://github.com/pear/MDB2"
+  },
+  "autoload": {
+    "psr-0": {
+      "MDB2": ""
+    },
+    "classmap": [
+      "MDB2/"
+    ]
+  }
+}
